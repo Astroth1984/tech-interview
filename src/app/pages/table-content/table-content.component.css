@@ -1,0 +1,124 @@
+    mat-form-field {
+        margin: 20px;
+    }
+    
+    table {
+        width: 100%;
+        background: #eee
+    }
+    
+    th {
+        background: #fff
+    }
+    
+    .mat-column-API {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 10% !important;
+        width: 10% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Description {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 30% !important;
+        width: 30% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Link {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 30% !important;
+        width: 30% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Auth {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 5% !important;
+        width: 5% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-HTTPS {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 5% !important;
+        width: 5% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Cors {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 5% !important;
+        width: 5% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Category {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 10% !important;
+        width: 10% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
+    
+    .mat-column-Action {
+        word-wrap: break-word !important;
+        white-space: unset !important;
+        flex: 0 0 10% !important;
+        width: 10% !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+    }
